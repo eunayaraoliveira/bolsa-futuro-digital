@@ -1,0 +1,1 @@
+instalar no vs code → live server
